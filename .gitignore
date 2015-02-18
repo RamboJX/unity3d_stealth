@@ -19,3 +19,6 @@ unity3d_stealth
 #ignore userprefs
 
 *.userprefs
+
+#ignore library dir
+Library
