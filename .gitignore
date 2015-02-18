@@ -1,0 +1,21 @@
+#ignore all meta files
+
+*.meta
+
+#ignore sln files
+
+*.sln
+
+#ignore Temp directory
+
+Temp
+
+#ignore unity3d_stealth directory
+unity3d_stealth
+
+#ignore csproj file
+*.csproj
+
+#ignore userprefs
+
+*.userprefs
