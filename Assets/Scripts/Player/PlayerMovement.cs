@@ -15,6 +15,7 @@ public class PlayerMovement : MonoBehaviour {
 		hash = GameObject.FindGameObjectWithTag (Tags.gameController).GetComponent<HashIDs> ();
 		anim.SetLayerWeight (1, 1f);
 
+	//	Time.timeScale = 1.0f;
 	}
 
 	void FixedUpdate(){
