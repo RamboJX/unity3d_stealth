@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class AlarmLight : MonoBehaviour 
+public class AlarmLight : MonoBehaviour
 {
 	public float fadeSpeed = 2f;
 	public float highIntensity = 2f;
@@ -10,6 +10,7 @@ public class AlarmLight : MonoBehaviour
 	public bool alarmOn;
 
 	private float targetIntensity;
+	//this is a test to push
 
 	void Awake()
 	{

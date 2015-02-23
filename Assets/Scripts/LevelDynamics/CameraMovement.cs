@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class CameraMovement : MonoBehaviour {
+public class CameraMovement : MonoBehaviour{
 	public float smooth = 1.5f;
 
 	private Transform player;
