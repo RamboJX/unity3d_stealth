@@ -7,7 +7,7 @@ public class EnemyAI : MonoBehaviour {
 	public float chaseWaitTime = 5f;
 	public float patrolWaitTime = 1f;
 	public Transform[] patrolWayPoints;
-
+//this is a test
 	private EnemySight enemySight;
 	private NavMeshAgent nav;
 	private Transform player;
